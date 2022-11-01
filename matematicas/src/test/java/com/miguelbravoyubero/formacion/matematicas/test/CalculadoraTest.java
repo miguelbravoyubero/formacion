@@ -1,4 +1,4 @@
-package matematicas;
+package com.miguelbravoyubero.formacion.matematicas.test;
 
 import static org.junit.Assert.*;
 
